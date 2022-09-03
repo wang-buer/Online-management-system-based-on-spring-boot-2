@@ -1,4 +1,4 @@
-# 基于springboot的在线管理管理系统
+# 基于springboot的在线考试管理系统
 
 ## 获取方式
 
